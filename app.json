@@ -24,12 +24,12 @@
     "POSTGRESQL_URL": {
             "description": "Put here postgresql url",
             "required": true,
-            "value": "https://telegra.ph/file/e31b4d03de956d6d92999.jpg/vajiratech"
+            "value": "https://telegra.ph/file/e31b4d03de956d6d92999.jpg"
         } 
     },
     "buildpacks": [
         {
-            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+            "url": "https://telegra.ph/file/e31b4d03de956d6d92999.jpg"
         }
      ],
   "stack": "heroku-22"
